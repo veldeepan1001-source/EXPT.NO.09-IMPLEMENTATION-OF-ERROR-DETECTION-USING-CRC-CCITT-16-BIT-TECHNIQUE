@@ -51,6 +51,8 @@ printf("no error detected");
 }
  
 # OUTPUT:
+<img width="1920" height="1080" alt="212222060192_CRC" src="https://github.com/user-attachments/assets/eed36d7d-abc3-4788-853d-a177325d7c5a" />
+
 
 
 # RESULT:
